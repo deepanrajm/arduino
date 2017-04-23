@@ -1,0 +1,12 @@
+Hardware:
+1. Arduino UNO
+2. HC 05 Bluetooth Module
+3. 2x300 RPM DC motor
+4. Dual Motor Driver (L293D) Module
+5. Four Wheel Robot Chasis
+6. Caster Wheel
+7. Connecting Wires
+
+Software:
+1. Arduino 
+2. Bluetooh RC Controller android application

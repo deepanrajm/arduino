@@ -1,0 +1,12 @@
+HC 05 - 	Tx to arduino digital pin 10
+        	Rx to arduino digital pin 11
+
+Motor Driver - 	Input 1 - arduino digital pin 2
+		Input 2 - arduino digital pin 3
+		Input 3 - arduino digital pin 4
+		Input 4 - arduino digital pin 5
+		Output 1 & 2 to Left DC motor
+		Output 3 & 4 to Right DC motor
+
+
+
