@@ -1,1 +1,1 @@
-Covers the basics and projects based and arduino 
+Covers the basics and Mini projects based and arduino 
