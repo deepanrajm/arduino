@@ -7,6 +7,8 @@ Components used:
 4. Leds 
 
 
+Note: I have included extra logic, that is nothing but a swtich to swtich on this mode.
+
 Bluetooth to bluetooth communication happens only when it is paired. 
 
 Upload the code in two arduinos and it will run perfectly. 
